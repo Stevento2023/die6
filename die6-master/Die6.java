@@ -43,6 +43,5 @@ public class Die6
     roll();
     return getValue();
   }
-
 }
 
